@@ -8,21 +8,21 @@ import "react-calendar/dist/Calendar.css";
 const events = [
   {
     id: 1,
-    title: "Entrega de proyecto",
+    title: "Proyect",
     time: "12:00 PM - 2:00 PM",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
   },
   {
     id: 2,
-    title: "Entrega de proyecto",
+    title: "Proyect",
     time: "12:00 PM - 2:00 PM",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
   },
   {
     id: 3,
-    title: "Entrega de proyecto",
+    title: "Proyect",
     time: "12:00 PM - 2:00 PM",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
